@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate with Senior, who will help me to become a good programmer.
 - 📫 https://t.me/OlegRodionov1
 - 📫 https://www.facebook.com/olegin.rodionov
+- 📫 https://www.codewars.com/users/Olegin12
 
 <!---
 Olegin12/Olegin12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
